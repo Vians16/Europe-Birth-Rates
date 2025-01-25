@@ -67,5 +67,13 @@ The following interactive dashboards are hosted on Tableau Public:
 ________________________________________
 Conclusion
 This project provides a comprehensive analysis of declining birth rates in Europe, emphasizing the importance of socioeconomic, demographic, and health-related factors. Governments can leverage these insights to develop policies addressing urbanization, education, and healthcare to mitigate the trend.
-View Europe Whitout Kids Dashboard 
+View Europe Whitout Kids Dashboard
+
+
+________________________________________
+Dashboard| Tableau Public
+https://public.tableau.com/app/profile/viannesa.sanchez/viz/EuropeWithoutkids/EuropeBirthsDrop
+
+
+
 
