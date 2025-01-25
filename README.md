@@ -71,7 +71,7 @@ View Europe Whitout Kids Dashboard
 
 
 ________________________________________
-Dashboard| Tableau Public
+Dashboard | Tableau Public
 https://public.tableau.com/app/profile/viannesa.sanchez/viz/EuropeWithoutkids/EuropeBirthsDrop
 
 
