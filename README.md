@@ -1,12 +1,14 @@
 Birth Rates in Europe: 
 A Data Analytics Project for Google Data Analytics Professional Certificate
 
-
+________________________________________
 Overview
+
 This project explores the decline in birth rates across Europe over the last two decades, identifying key socioeconomic, demographic, and health-related factors influencing these trends. Through data-driven insights and visualizations, we aim to uncover actionable recommendations to address this critical issue.
 
 ________________________________________
 Primary Research Question
+
 How has the birth rate declined in Europe over the last 20 years, and what factors are most associated with this trend?
 
 ________________________________________
